@@ -1,0 +1,22 @@
+$ns: '.PDFAnnotater';
+
+#{$ns} {
+  margin: 5px;
+
+  &__wrapper {
+  }
+
+  &__loaded {
+    position: absolute;
+  }
+
+  &__loaded-pdf {
+    position: relative;
+  }
+
+  &__loaded-canvas {
+    width: 780px;
+    position: absolute;
+
+  }
+}
