@@ -20,5 +20,5 @@ Hot-reloading served at [localhost:3000](http://localhost:3000).
 
 ### Additional Reading
 
-More on react [here](https://reactjs.org/docs/getting-started.html).
+More on React [here](https://reactjs.org/docs/getting-started.html).
 
